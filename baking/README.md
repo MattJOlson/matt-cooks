@@ -92,3 +92,106 @@ to set, and cutting right in won't do you any favours. Depending on your
 baking schedule, this can be infuriating in that bread you bake tonight
 might not be ready to eat until _tomorrow_. That is, to me, just part of
 the process.
+
+### Tradition and novelty
+
+Bread goes back millenia -- some claim with varying levels of irony that
+wheat domesticated humans -- so it's tempting to think of baking as an
+ancient, slow-moving art recently debased by crass commercialism. That
+isn't especially true! [Baguettes](https://en.wikipedia.org/wiki/Baguette)
+as we know them are just over a century old; [ciabatta](https://en.wikipedia.org/wiki/Ciabatta)
+was developed by Italian bakers as a response in 1982. (I am older than
+ciabatta.)
+
+Preferments based on commercial yeast (as opposed to old dough) are a
+19th century innovation. The autolyse technique was put forth by Raymond
+Calvel in the mid-70s in response to the high-speed gluten development
+needs of commercial baking (see "patience" above). None of this is set
+in stone by ossified tradition, and "new" means "better" at least as
+often as it means "worse" when it comes to stuff you'd do in your home.
+I am dead certain that the state of the art in artisan bread is found in
+forum posts and discord channels.
+
+With all that in mind, I don't _venerate_ baking tradition. I'll use a
+dough improver or a tiktok hack if it gets me better bread.
+
+That said, I do my baking by hand. Mostly this comes down to not owning
+a stand mixer, which itself comes down to lack of usable space in my
+kitchen, but I also (usually) like the feel of working with dough and I
+don't mind taking an extra hour in the evening to do a bunch of folds
+instead of just running a Kitchenaid for fifteen minutes on low.
+
+And with that, let's get into tools and ingredients.
+
+## Tools, techniques, and ingredients
+
+I don't do anything especially novel, here, but it's worth mentioning
+what I _do_ so you have it in mind while reading.
+
+### Flours and other dry ingredients
+
+I mostly bake with all-purpose (AP) flour from a local mill called
+[Anita's Organic Mill](https://www.anitasorganic.com/products). Their
+AP flour runs about 13% protein, which is on the high side; if yours is
+closer to 10% or 11% you might substitute bread flour when I write AP.
+
+I also use whole-wheat in most everything I bake, and some pizza flour
+in my pizzas. Recently I've been putting vital wheat gluten in nearly
+everything, to make a stronger dough, and I'm coming around to the idea
+that I probably shouldn't be putting it in _everything_.
+
+I use instant dry yeast; if yours is _active_ dry yeast use a little
+bit more, or give it longer to rise.
+
+I use Diamond Crystal salt, which shouldn't matter because all the dry
+ingredients are measured by weight. I usually use granulated sugar, not
+honey, as a sweetener.
+
+### Tools
+
+I have a [Danish (or Dutch) whisk](https://www.tasteofhome.com/article/what-is-a-danish-dough-whisk/)
+which helps mix dough to a rough level of incorporation, although I tend
+to switch to mixing by hand for anything that isn't really wet. It's
+easy to clean, which is nice.
+
+I also just bought a baking steel, which helps transfer a _lot_ of heat
+into bread in my plucky, low-budget apartment oven. I've used a baguette
+pan before but kinda prefer the steel; I'd go back to the baguette pan
+for something like banh mi rolls which don't lean hard on oven spring. I
+also have a small loaf pan.
+
+Otherwise, I have a digital scale for measuring stuff out, a metal
+bench scraper and two plastic bowl scrapers, a small banneton for making
+batards, and various sheet pans and bowls. I scale small amounts of dry
+ingredients into one-cup deli containers and grow preferments in their
+four-cup counterparts.
+
+### Techniques
+
+I almost always build a preferment for my bread. Usually that's a biga
+(around 60-65% hydration of the flour in the preferment); I've done
+poolishes before (around 100% hydration) but the biga's more pleasant to
+work with. I haven't grown a sourdough starter because it feels like too
+much work, especially ongoing work. I can mix a biga first thing in the
+morning on a weekday, put it on my desk to ferment while I work, and mix
+the dough in the evening. Lately I've been putting all the whole wheat I
+use into the biga and it's worked nicely; my bigas end up around 50% of
+the flour by weight.
+
+I also almost always autolyse whatever flour didn't make it into the
+biga with what's left of the water (up to 100% hydration on the autolyse
+at least). That gives the gluten a head start and makes mixing by hand
+more pleasant.
+
+I _also_ almost always bulk ferment the dough overnight in the fridge.
+For the amount of bread I usually bake (around 300-320g flour) a deep
+sixth pan works nicely.
+
+I don't have a preferred mixing technique, although I'll probably
+develop a fondness for one or two over many others. Usually I'll do
+bowl folds with a dough that's nice and smooth; if it's too slack to
+work with I'll do a round of french folds until it coheres better (and
+then rest it before trying bowl folds again).
+
+> One day I will link to videos and other resources on what all that
+> shit means.
