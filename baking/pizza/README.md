@@ -1,4 +1,4 @@
-# Skillet-broiler pizza dough (50% biga)
+# Skillet-broiler pizza dough (40% biga)
 
 This recipe, and method, began when I saw a chance to make thin-crust
 pizza a reasonable working-from-home lunch. I'm going to focus on the
