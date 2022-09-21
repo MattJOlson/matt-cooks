@@ -276,7 +276,8 @@ the pie on the stovetop once the top is cooked under the broiler.
 
 This is (deliberately) not a very thick or robust crust, so you probably
 don't want to top it heavily. About 2tbsp of sauce, a bit less cheese
-than you think, and a bit less topping than you think works for me.
+than you think (I just measured; ~45g of low-moisture mozzarella and
+Swiss), and a bit less topping than you think works for me.
 
 When topping the pizza, you want to work quickly, but you don't have to
 rush through it.
